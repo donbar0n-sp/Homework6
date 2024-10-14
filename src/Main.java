@@ -12,7 +12,7 @@ public class Main {
         }
         //task3
         System.out.println("task3");
-        for (int i = 2; i < 17; i = i + 2) {
+        for (int i = 0; i < 17; i = i + 2) {
             System.out.println(i);
         }
         //task4
@@ -23,7 +23,7 @@ public class Main {
         //task5
         System.out.println("task5");
         for (int i = 1904; i <= 2096; i = i + 4) {
-            System.out.println(i);
+            System.out.println(i + " год является високосным");
         }
         //task6
         System.out.println("task6");
